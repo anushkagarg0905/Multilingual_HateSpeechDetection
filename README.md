@@ -45,7 +45,7 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
 
 ---
 
-##Evaluation Metrics
+## Evaluation Metrics
 
  - Accuracy
 
@@ -60,7 +60,7 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
 
 ---
 
-##Analysis and Visualization
+## Analysis and Visualization
 
  - Comparison of mBERT and XLM-RoBERTa performance
 
@@ -71,7 +71,7 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
 ---
 
 
-##Technologies Used
+## Technologies Used
 
  - Python
 
