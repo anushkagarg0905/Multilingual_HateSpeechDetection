@@ -1,10 +1,11 @@
-**Multilingual Hate Speech Detection using Transformers**
+# Multilingual Hate Speech Detection using Transformers
 
 This project implements a multilingual hate speech detection system using transformer-based language models. The objective is to classify text as hate or non-hate across multiple languages and compare the performance of two pretrained multilingual models.
 
+---
 
 
-**Project Objective**
+## Project Objective
 
  - Detect hate speech in multilingual text
 
@@ -14,10 +15,11 @@ This project implements a multilingual hate speech detection system using transf
 
  - Present results using simple and clear visualizations
 
+---
 
 
 
-**Models Used**
+## Models Used
 
  - mBERT (bert-base-multilingual-cased)
 
@@ -25,10 +27,10 @@ This project implements a multilingual hate speech detection system using transf
 
 Both models are fine-tuned using the Hugging Face Transformers library with a PyTorch backend.
 
+---
 
 
-
-**Methodology**
+##Methodology
 
  - Data cleaning and preprocessing
 
@@ -41,9 +43,9 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
  - Model comparison and language-wise error analysis
 
 
+---
 
-
-**Evaluation Metrics**
+##Evaluation Metrics
 
  - Accuracy
 
@@ -56,9 +58,9 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
  - Confusion Matrix
 
 
+---
 
-
-**Analysis and Visualization**
+##Analysis and Visualization
 
  - Comparison of mBERT and XLM-RoBERTa performance
 
@@ -66,10 +68,10 @@ Both models are fine-tuned using the Hugging Face Transformers library with a Py
 
  - Simple graphs for performance interpretation
 
+---
 
 
-
-**Technologies Used**
+##Technologies Used
 
  - Python
 
